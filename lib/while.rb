@@ -1,7 +1,7 @@
-def using_while
-  levitation_force = 6
-	
-  #your code here
+levitation force = 6
+def using_while < 10
+  puts "The current levitation force is #{leviation force}."
+  leviatation force += 1
 end
 
 
